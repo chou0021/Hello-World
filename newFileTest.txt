@@ -1,2 +1,3 @@
 file name : newFileTest.txt
+inserted a line 
 created a new branch and added a line
