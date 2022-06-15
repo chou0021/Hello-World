@@ -1,3 +1,4 @@
 file name : newFileTest.txt
 inserted a line 
 created a new branch and added a line
+added a third line to create conflict
