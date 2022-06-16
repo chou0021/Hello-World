@@ -10,4 +10,4 @@ added a third line to create conflict
 
 
 
-end of edit in newFile.txt
+end of edit in newFile.txt addition to line from newbranch
