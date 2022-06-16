@@ -10,5 +10,9 @@ created a new branch and added a line
 
 
 
+
 end of edit in newFile.txt
 some changes in newFile from main branch
+
+end of edit in newFile.txt addition to line from newbranch
+
