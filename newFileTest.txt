@@ -6,8 +6,13 @@ inserted a line
 
 
 created a new branch and added a line
-added a third line to create conflict
+///added a third line to create conflict
 
 
+
+
+end of edit in newFile.txt
+some changes in newFile from main branch
 
 end of edit in newFile.txt addition to line from newbranch
+
